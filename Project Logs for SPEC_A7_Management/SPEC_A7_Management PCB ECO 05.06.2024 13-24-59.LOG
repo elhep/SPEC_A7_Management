@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=B? NewDesignator=B4
+Change Component Designator: OldDesignator=B? NewDesignator=B5
+Change Component Designator: OldDesignator=B? NewDesignator=B6
+Added Member To Class: ClassName=SPEC_A7_Management Member=Component B4 Non Plated Hole
+Added Member To Class: ClassName=SPEC_A7_Management Member=Component B6 Non Plated Hole

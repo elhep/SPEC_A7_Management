@@ -1,0 +1,354 @@
+Removed Pin From Net: NetName=GND Pin=C73-1
+Removed Pin From Net: NetName=SFP_VCCR Pin=C73-2
+Removed Pin From Net: NetName=GND Pin=C81-1
+Removed Pin From Net: NetName=SFP_VCCT Pin=C81-2
+Removed Pin From Net: NetName=GND Pin=C588-1
+Removed Pin From Net: NetName=P3V3 Pin=C588-2
+Removed Pin From Net: NetName=GND Pin=C589-1
+Removed Pin From Net: NetName=P3V3 Pin=C589-2
+Removed Pin From Net: NetName=GND Pin=C591-1
+Removed Pin From Net: NetName=SFP_VCCR Pin=C591-2
+Removed Pin From Net: NetName=GND Pin=C592-1
+Removed Pin From Net: NetName=SFP_VCCR Pin=C592-2
+Removed Pin From Net: NetName=GND Pin=C593-1
+Removed Pin From Net: NetName=SFP_VCCR Pin=C593-2
+Removed Pin From Net: NetName=GND Pin=C594-1
+Removed Pin From Net: NetName=SFP_VCCT Pin=C594-2
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=SFP_MOD_DEF2 Pin=J7-4
+Removed Pin From Net: NetName=SFP_MOD_DEF1 Pin=J7-5
+Removed Pin From Net: NetName=SFP_LOS Pin=J7-8
+Removed Pin From Net: NetName=GND Pin=J7-9
+Removed Pin From Net: NetName=GND Pin=J7-10
+Removed Pin From Net: NetName=GND Pin=J7-11
+Removed Pin From Net: NetName=SFPRX_N Pin=J7-12
+Removed Pin From Net: NetName=SFPRX_P Pin=J7-13
+Removed Pin From Net: NetName=GND Pin=J7-14
+Removed Pin From Net: NetName=SFP_VCCR Pin=J7-15
+Removed Pin From Net: NetName=SFP_VCCT Pin=J7-16
+Removed Pin From Net: NetName=GND Pin=J7-17
+Removed Pin From Net: NetName=SFPTX_P Pin=J7-18
+Removed Pin From Net: NetName=SFPTX_N Pin=J7-19
+Removed Pin From Net: NetName=GND Pin=J7-20
+Removed Pin From Net: NetName=MDI2_N Pin=J28-2
+Removed Pin From Net: NetName=MDI2_P Pin=J28-3
+Removed Pin From Net: NetName=MDI1_P Pin=J28-4
+Removed Pin From Net: NetName=MDI1_N Pin=J28-5
+Removed Pin From Net: NetName=MDI3_P Pin=J28-8
+Removed Pin From Net: NetName=MDI3_N Pin=J28-9
+Removed Pin From Net: NetName=MDI0_N Pin=J28-10
+Removed Pin From Net: NetName=MDI0_P Pin=J28-11
+Removed Pin From Net: NetName=GND Pin=J28-13
+Removed Pin From Net: NetName=LED_0 Pin=J28-14
+Removed Pin From Net: NetName=GND Pin=J28-15
+Removed Pin From Net: NetName=LED_1 Pin=J28-16
+Removed Pin From Net: NetName=CHASSIS Pin=J28-18
+Removed Pin From Net: NetName=CHASSIS Pin=J28-19
+Removed Pin From Net: NetName=P3V3 Pin=L11-1
+Removed Pin From Net: NetName=SFP_VCCR Pin=L11-2
+Removed Pin From Net: NetName=P3V3 Pin=L22-1
+Removed Pin From Net: NetName=SFP_VCCT Pin=L22-2
+Removed Pin From Net: NetName=P3V3 Pin=R400-2
+Removed Pin From Net: NetName=SFP_MOD_DEF2 Pin=R401-1
+Removed Pin From Net: NetName=P3V3 Pin=R401-2
+Removed Pin From Net: NetName=SFP_MOD_DEF1 Pin=R402-1
+Removed Pin From Net: NetName=P3V3 Pin=R402-2
+Removed Pin From Net: NetName=P3V3 Pin=R403-2
+Removed Pin From Net: NetName=SFP_LOS Pin=R404-1
+Removed Pin From Net: NetName=P3V3 Pin=R404-2
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_RX_CLK
+Removed Member From Class: ClassName=SE50 Member=RGMII_RX_CLK
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_RXD0
+Removed Member From Class: ClassName=SE50 Member=RGMII_RXD0
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_RXD1
+Removed Member From Class: ClassName=SE50 Member=RGMII_RXD1
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_RXD2
+Removed Member From Class: ClassName=SE50 Member=RGMII_RXD2
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_RXD3
+Removed Member From Class: ClassName=SE50 Member=RGMII_RXD3
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_TX_CLK
+Removed Member From Class: ClassName=SE50 Member=RGMII_TX_CLK
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_TXD0
+Removed Member From Class: ClassName=SE50 Member=RGMII_TXD0
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_TXD1
+Removed Member From Class: ClassName=SE50 Member=RGMII_TXD1
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_TXD2
+Removed Member From Class: ClassName=SE50 Member=RGMII_TXD2
+Removed Member From Class: ClassName=RGMII_RXTX Member=RGMII_TXD3
+Removed Member From Class: ClassName=SE50 Member=RGMII_TXD3
+Change Component Comment : Designator=IC2 Old Comment=DP83869HMRGZ New Comment=QSMP-QS93
+Change Component Comment : Designator=IC1 Old Comment=QSMP-1530 New Comment=DP83869HMRGZ
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "KARO_QSMP-1530"; UniqueID = "\NLJFFSUA\IAJZBJTB" ("\NLJFFSUA\IAJZBJTB")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case"; Value = "QFN48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "24.04.2024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "DP83869HMRGZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\DP83869HMRGZ.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "24.04.2024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TEXAS INSTRUMENTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DP83869HMRGZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "QFN, 0.50mm Pitch, Square; 48 Pin, 7.00mm L X 7.00mm W X 1.00mm H body (w/Thermal Tab 4.20 X 4.20mm), IPC Medium Density"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "High Immunity 10/100/1000 Ethernet Physical Layer Transceiver with Copper and Fiber Interface"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DP83869HMRGZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "QFN50P700X700X100-49N-S420"; UniqueID = "\NPJSGNAI\NDFESQPG" ("\NPJSGNAI\NDFESQPG")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case"; Value = "QFP100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "2.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "22.04.2024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "QSMP-QS93"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\KARO_QSMP-1530.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "22.04.2024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KARO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "QSMP-1530"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "QFN, 0.65mm Pitch, 100 Pin,27.35mm L X 27.35mm W X 2.3mm H Body (w/Thermal Tab 24.3 X 24.3mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Computer-On-Modules - COM QSMP/153A/256S/4GF/E85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "QSMP-QS93"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "106"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MDI0_P Pin=IC1-1
+Added Pin To Net: NetName=MDI0_N Pin=IC1-2
+Added Pin To Net: NetName=MDI1_P Pin=IC1-4
+Added Pin To Net: NetName=MDI1_N Pin=IC1-5
+Added Pin To Net: NetName=MDI2_P Pin=IC1-7
+Added Pin To Net: NetName=MDI2_N Pin=IC1-8
+Added Pin To Net: NetName=MDI3_P Pin=IC1-10
+Added Pin To Net: NetName=MDI3_N Pin=IC1-11
+Added Pin To Net: NetName=SFPTX_N Pin=IC1-14
+Added Pin To Net: NetName=SFPTX_P Pin=IC1-15
+Added Pin To Net: NetName=SFPRX_P Pin=IC1-16
+Added Pin To Net: NetName=SFPRX_N Pin=IC1-17
+Added Pin To Net: NetName=SFP_LOS Pin=IC1-24
+Added Pin To Net: NetName=LED_1 Pin=IC1-46
+Added Pin To Net: NetName=LED_0 Pin=IC1-47
+Added Pin To Net: NetName=GND Pin=IC1-49
+Added Pin To Net: NetName=A7_RXD Pin=J1-24
+Added Net: Name=A7_RXD
+Added Pin To Net: NetName=A7_TXD Pin=J1-23
+Added Net: Name=A7_TXD
+Added Pin To Net: NetName=BOOT_MODE2 Pin=IC2-18
+Added Net: Name=BOOT_MODE2
+Added Pin To Net: NetName=BOOT_MODE3 Pin=IC2-15
+Added Net: Name=BOOT_MODE3
+Added Net: Name=BOOT_MODE
+Added Net: Name=CONSOL_RX
+Added Net: Name=CONSOL_TX
+Added Net: Name=EN1
+Added Pin To Net: NetName=ENET1_INT Pin=IC2-21
+Added Net: Name=ENET1_INT
+Added Pin To Net: NetName=ENET1_MDC Pin=IC1-42
+Added Pin To Net: NetName=ENET1_MDC Pin=IC2-23
+Added Net: Name=ENET1_MDC
+Added Pin To Net: NetName=ENET1_MDIO Pin=IC1-41
+Added Pin To Net: NetName=ENET1_MDIO Pin=IC2-22
+Added Net: Name=ENET1_MDIO
+Added Pin To Net: NetName=ENET1_RX_CLK Pin=IC1-32
+Added Pin To Net: NetName=ENET1_RX_CLK Pin=IC2-24
+Added Net: Name=ENET1_RX_CLK
+Added Pin To Net: NetName=ENET1_RX_CTRL Pin=IC1-38
+Added Pin To Net: NetName=ENET1_RX_CTRL Pin=IC2-25
+Added Net: Name=ENET1_RX_CTRL
+Added Pin To Net: NetName=ENET1_RXD0 Pin=IC1-36
+Added Pin To Net: NetName=ENET1_RXD0 Pin=IC2-26
+Added Net: Name=ENET1_RXD0
+Added Pin To Net: NetName=ENET1_RXD1 Pin=IC1-35
+Added Pin To Net: NetName=ENET1_RXD1 Pin=IC2-27
+Added Net: Name=ENET1_RXD1
+Added Pin To Net: NetName=ENET1_RXD2 Pin=IC1-34
+Added Pin To Net: NetName=ENET1_RXD2 Pin=IC2-28
+Added Net: Name=ENET1_RXD2
+Added Pin To Net: NetName=ENET1_RXD3 Pin=IC1-33
+Added Pin To Net: NetName=ENET1_RXD3 Pin=IC2-29
+Added Net: Name=ENET1_RXD3
+Added Pin To Net: NetName=ENET1_TX_CLK Pin=IC1-29
+Added Pin To Net: NetName=ENET1_TX_CLK Pin=IC2-31
+Added Net: Name=ENET1_TX_CLK
+Added Pin To Net: NetName=ENET1_TX_CTRL Pin=IC1-37
+Added Pin To Net: NetName=ENET1_TX_CTRL Pin=IC2-30
+Added Net: Name=ENET1_TX_CTRL
+Added Pin To Net: NetName=ENET1_TXD0 Pin=IC1-28
+Added Pin To Net: NetName=ENET1_TXD0 Pin=IC2-35
+Added Net: Name=ENET1_TXD0
+Added Pin To Net: NetName=ENET1_TXD1 Pin=IC1-27
+Added Pin To Net: NetName=ENET1_TXD1 Pin=IC2-34
+Added Net: Name=ENET1_TXD1
+Added Pin To Net: NetName=ENET1_TXD2 Pin=IC1-26
+Added Pin To Net: NetName=ENET1_TXD2 Pin=IC2-33
+Added Net: Name=ENET1_TXD2
+Added Pin To Net: NetName=ENET1_TXD3 Pin=IC1-25
+Added Pin To Net: NetName=ENET1_TXD3 Pin=IC2-32
+Added Net: Name=ENET1_TXD3
+Added Pin To Net: NetName=ENET2_MDC Pin=J2-18
+Added Net: Name=ENET2_MDC
+Added Pin To Net: NetName=ENET2_MDIO Pin=J2-17
+Added Net: Name=ENET2_MDIO
+Added Pin To Net: NetName=ENET2_RX_CLK Pin=J2-3
+Added Net: Name=ENET2_RX_CLK
+Added Pin To Net: NetName=ENET2_RX_CTRL Pin=J2-2
+Added Net: Name=ENET2_RX_CTRL
+Added Pin To Net: NetName=ENET2_RXD0 Pin=J2-5
+Added Net: Name=ENET2_RXD0
+Added Pin To Net: NetName=ENET2_RXD1 Pin=J2-6
+Added Net: Name=ENET2_RXD1
+Added Pin To Net: NetName=ENET2_RXD2 Pin=J2-7
+Added Net: Name=ENET2_RXD2
+Added Pin To Net: NetName=ENET2_RXD3 Pin=J2-8
+Added Net: Name=ENET2_RXD3
+Added Pin To Net: NetName=ENET2_TX_CLK Pin=J2-16
+Added Net: Name=ENET2_TX_CLK
+Added Pin To Net: NetName=ENET2_TX_CTRL Pin=J2-15
+Added Net: Name=ENET2_TX_CTRL
+Added Pin To Net: NetName=ENET2_TXD0 Pin=J2-10
+Added Net: Name=ENET2_TXD0
+Added Pin To Net: NetName=ENET2_TXD1 Pin=J2-11
+Added Net: Name=ENET2_TXD1
+Added Pin To Net: NetName=ENET2_TXD2 Pin=J2-12
+Added Net: Name=ENET2_TXD2
+Added Pin To Net: NetName=ENET2_TXD3 Pin=J2-13
+Added Net: Name=ENET2_TXD3
+Added Net: Name=GPIO00
+Added Net: Name=GPIO01
+Added Net: Name=GPIO02
+Added Net: Name=GPIO03
+Added Net: Name=GPIO30
+Added Net: Name=GPIO33
+Added Pin To Net: NetName=I2CA_SCL Pin=IC2-5
+Added Net: Name=I2CA_SCL
+Added Pin To Net: NetName=I2CA_SDA Pin=IC2-6
+Added Net: Name=I2CA_SDA
+Added Pin To Net: NetName=I2CB_SCL Pin=IC2-8
+Added Net: Name=I2CB_SCL
+Added Pin To Net: NetName=I2CB_SDA Pin=IC2-9
+Added Net: Name=I2CB_SDA
+Added Net: Name=JTAG_TCK
+Added Net: Name=JTAG_TDI
+Added Net: Name=JTAG_TDO
+Added Net: Name=JTAG_TMS
+Added Net: Name=JTAG_TRST_B
+Added Pin To Net: NetName=LED_2 Pin=IC1-45
+Added Net: Name=LED_2
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Net: Name=NetC3_2
+Added Net: Name=NetC4_2
+Added Net: Name=NetC39_2
+Added Net: Name=NetC42_2
+Added Net: Name=NetC47_2
+Added Net: Name=NetC53_2
+Added Net: Name=NetC55_2
+Added Net: Name=NetC57_2
+Added Net: Name=NetC59_2
+Added Net: Name=NetD5_3
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Net: Name=NetIC1_12
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Net: Name=NetIC2_7
+Added Net: Name=NetIC3_1
+Added Net: Name=NetIC4_3
+Added Net: Name=NetIC4_4
+Added Net: Name=NetIC4_6
+Added Net: Name=NetIC4_18
+Added Net: Name=NetIC4_24
+Added Net: Name=NetIC4_31
+Added Net: Name=NetJ3_13
+Added Net: Name=NetJ3_15
+Added Net: Name=NetJ3_17
+Added Net: Name=NetJ4_7
+Added Net: Name=NetJ5_A5
+Added Net: Name=NetJ5_B5
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=P1V1 Pin=IC1-6
+Added Pin To Net: NetName=P1V1 Pin=IC1-31
+Added Pin To Net: NetName=P1V1 Pin=IC1-39
+Added Net: Name=P1V1
+Added Pin To Net: NetName=P1V8 Pin=IC1-13
+Added Pin To Net: NetName=P1V8 Pin=IC1-48
+Added Net: Name=P1V8
+Added Pin To Net: NetName=P2V5 Pin=IC1-3
+Added Pin To Net: NetName=P2V5 Pin=IC1-9
+Added Net: Name=P2V5
+Added Pin To Net: NetName=P3V3_SoM Pin=IC1-18
+Added Pin To Net: NetName=P3V3_SoM Pin=IC1-30
+Added Pin To Net: NetName=P3V3_SoM Pin=IC2-49
+Added Net: Name=P3V3_SoM
+Added Pin To Net: NetName=P5V_USB Pin=IC2-43
+Added Net: Name=P5V_USB
+Added Pin To Net: NetName=PHY1_RSTn Pin=IC1-43
+Added Pin To Net: NetName=PHY1_RSTn Pin=IC2-19
+Added Net: Name=PHY1_RSTn
+Added Net: Name=PHY2_RSTn
+Added Pin To Net: NetName=PHY_CLK Pin=IC2-20
+Added Net: Name=PHY_CLK
+Added Pin To Net: NetName=PHY_CLKX Pin=IC1-20
+Added Net: Name=PHY_CLKX
+Added Pin To Net: NetName=PHY_INTn Pin=IC1-44
+Added Net: Name=PHY_INTn
+Added Pin To Net: NetName=SD_CD Pin=IC2-36
+Added Net: Name=SD_CD
+Added Pin To Net: NetName=SD_CLK Pin=IC2-39
+Added Net: Name=SD_CLK
+Added Pin To Net: NetName=SD_CMD Pin=IC2-40
+Added Net: Name=SD_CMD
+Added Pin To Net: NetName=SD_D0 Pin=IC2-37
+Added Net: Name=SD_D0
+Added Pin To Net: NetName=SD_D1 Pin=IC2-38
+Added Net: Name=SD_D1
+Added Pin To Net: NetName=SD_D2 Pin=IC2-41
+Added Net: Name=SD_D2
+Added Pin To Net: NetName=SD_D3 Pin=IC2-42
+Added Net: Name=SD_D3
+Added Net: Name=SoM_RSTn
+Added Pin To Net: NetName=USB_D_N Pin=IC2-44
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=IC2-45
+Added Net: Name=USB_D_P
+Change Class Name : Old Net Name=RGMII New Net Name=1000BASET
+Added Class: Name=SPEC_A7_Managment-TOP
+Added Class: Name=U_ETH_PHY_SFP
+Added Class: Name=U_SPEC_A7_Power
+Added Class: Name=U_SPEC_A7_SoM
+Added Class: Name=U_SPEC_A7
+Added Class: Name=PWR
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_RX_CLK
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_RX_CLK
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_RX_CTRL
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_RX_CTRL
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_RXD0
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_RXD0
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_RXD1
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_RXD1
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_RXD2
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_RXD2
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_RXD3
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_RXD3
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_TX_CLK
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_TX_CLK
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_TX_CTRL
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_TX_CTRL
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_TXD0
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_TXD0
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_TXD1
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_TXD1
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_TXD2
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_TXD2
+Added Member To Class: ClassName=RGMII_RXTX Member=Wire ENET1_TXD3
+Added Member To Class: ClassName=SE50 Member=Wire ENET1_TXD3
+Added Room: Name=SPEC_A7_Managment-TOP
+Added Room: Name=U_SPEC_A7_Power
+Added Room: Name=U_SPEC_A7_SoM
