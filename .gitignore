@@ -1,5 +1,7 @@
 *.html
+*.htm
 History/
 Project Outputs*
 Project Logs*
-__Previews*
+**/__Previews*
+*.zip
